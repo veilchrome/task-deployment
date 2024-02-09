@@ -1,0 +1,6 @@
+Sebelum mendeploy suatu projek React, hal yang terpenting dilakukan adalah optimisasi untuk production beberapa langkah yang sering dilakukan untuk tahapan ini ialah :
+1. Minification
+2. Bundling
+3. Code Splitting
+4. Image Optimasi
+setelah tahapan atas dilakukan tahap berikutnya ialah proses Build di React bisa menggunakan run command "npm run build" atau "yarn build". Static Assets setelah tahapan build dilakukan dan files akan siap untuk di deploy di suatu platform deployment seperti vercel, heroku dan netifly.
